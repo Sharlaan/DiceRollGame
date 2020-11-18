@@ -1,0 +1,28 @@
+{
+  "name": "animated-3d-dice",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^1.9.2",
+    "expo": "~39.0.0",
+    "expo-gl": "~9.1.1",
+    "expo-linear-gradient": "^8.3.1",
+    "expo-three": "5.4.0",
+    "react": "~16.14.0",
+    "react-dom": "~16.14.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
+    "react-native-paper": "^4",
+    "react-three-fiber": "4",
+    "three": "^0.122"
+  },
+  "devDependencies": {
+    "@babel/core": "7.12.3"
+  }
+}
